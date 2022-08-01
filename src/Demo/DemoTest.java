@@ -16,4 +16,10 @@ public class DemoTest {
 	public static void divide(int a, int b) {
 		System.out.println(a/b);
 	}
+	
+	//not from Carlos
+	public static void subtract(int a, int b){
+		SYstem.out.println(a-b);
+				
+}
 }
